@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204732669321",
+    "firebase_url": "https://nasa-space-apps-hackathon.firebaseio.com",
+    "project_id": "nasa-space-apps-hackathon",
+    "storage_bucket": "nasa-space-apps-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204732669321:android:fb69f43bcabfacc0205558",
+        "android_client_info": {
+          "package_name": "com.example.nasaspaceappshackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204732669321-hope6skuj2cke1hi48tqk1ild85qpqc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MOYWAo-k0fDtGOphsPUGjm0NMJfrpkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204732669321-hope6skuj2cke1hi48tqk1ild85qpqc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
